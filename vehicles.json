@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Honda beat",
+        "type": "Motor Matic",
+        "price_per_day": 100000,
+        "available": true,
+        "image": "honda beat.jpeg.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Honda CBR 250",
+        "type": "Motor Sport",
+        "price_per_day": 200000,
+        "available": true,
+        "image": "honda cbr250.jpeg.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Yamaha Aerox",
+        "type": "Motor Matic",
+        "price_per_day": 150000,
+        "available": true,
+        "image": "Yamaha Aerox.png"
+    },
+    {
+        "id": 4,
+        "name": "Honda pcx",
+        "type": "Motor Matic",
+        "price_per_day": 150000,
+        "available": true,
+        "image": "honda pcx.webp"
+    },
+    {
+        "id": 5,
+        "name": "Yamaha NMAX",
+        "type": "Motor Matic",
+        "price_per_day": 150000,
+        "available": true,
+        "image": "Yamaha NMAX.png"
+    }
+]
